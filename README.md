@@ -25,3 +25,6 @@
 
 ## 📫 Connect with me
 LinkedIn: https://linkedin.com/in/pratha-jain-5a420416a
+
+💡 I build financial analytics solutions combining data analysis, modelling, and visualization.
+
