@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Pratha Jain
 
-<!--
-**PrathaJain02/PrathaJain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year MSc Finance Student  
+📊 Focused on Data Analytics & Risk Management  
+📈 Turning financial data into insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+📊 Loan Default Risk Dashboard (Power BI)  
+📈 Financial Risk Analysis  
+📉 Data Analytics Projects
+
+---
+
+## 📫 Connect with me
+LinkedIn: https://linkedin.com/in/pratha-jain-5a420416a
