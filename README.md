@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pratha Jain
 
-🎓 Final-year MSc Finance Student  
+🎓 Final-year MSc Financial Economics Student  
 📊 Focused on Data Analytics & Risk Management  
 📈 Turning financial data into insights
 
