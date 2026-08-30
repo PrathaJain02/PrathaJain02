@@ -20,7 +20,7 @@
 ## 📂 Featured Projects
 📊 3 Statement Model 
 📈 LBO Modelling  
-📉 ACcretion Dillution Model
+📉 Accretion Dillution Model
 📉 Financial analytics Project
 ---
 
