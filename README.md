@@ -7,13 +7,16 @@
 ---
 
 ## 🛠 Skills
-- Financial Modelling
+- 3-Statement Financial Modelling
 - DCF Valuation
+- Comparable company analysis
 - Relative Valuation
 - LBO Modelling
 - Financial Statement analysis
+- Financial Forecasting
 - Excel
-- Equity Research analysis
+- Equity & fixed Income
+- Portfolio Management
 - Data analysis & Visualization
 ---
 
